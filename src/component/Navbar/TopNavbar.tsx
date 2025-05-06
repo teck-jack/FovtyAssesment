@@ -15,7 +15,7 @@ const TopNavbar: React.FC = () => {
         <NavIconLink icon={CircleDollarSign} label="RFQ" />
         <NavIconLink icon={Users} label="Supplier" />
         <NavIconLink icon={User} label="Buyer" />
-        <NavIconLink icon={MessageSquare} label="Message" />
+        <NavIconLink icon={MessageSquare} label="Message " />
         <NavIconLink icon={Heart} label="Shortlist" />
       </div>
     </div>
